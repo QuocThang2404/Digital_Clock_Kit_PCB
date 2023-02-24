@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=DS1307_?-3
+Removed Pin From Net: NetName=GND Pin=DS1307_?-4
+Removed Pin From Net: NetName=+5 Pin=DS1307_?-8
+Removed Member From Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=32.768kHz
+Removed Member From Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=R1
+Removed Member From Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=R2
+Add Pin To Net: Unknown Pin: Pin DHT11_1-1
+Add Pin To Net: Unknown Pin: Pin DHT11_1-2
+Add Pin To Net: Unknown Pin: Pin DHT11_1-3
+Added Pin To Net: NetName=+5 Pin=DS1307_?-11
+Added Pin To Net: NetName=GND Pin=DS1307_?-12
+Added Pin To Net: NetName=GND Pin=DS1307_?-12
+Add Pin To Net: Unknown Pin: Pin RE_1-1
+Add Pin To Net: Unknown Pin: Pin RE_1-2
+Add Pin To Net: Unknown Pin: Pin RE_1-3
+Add Pin To Net: Unknown Pin: Pin RE_1-4
+Add Pin To Net: Unknown Pin: Pin RE_1-5
+Added Pin To Net: NetName=NetDS1307_?_9 Pin=DS1307_?-9
+Added Pin To Net: NetName=NetDS1307_?_9 Pin=U?-35
+Added Net: Name=NetDS1307_?_9
+Added Pin To Net: NetName=NetDS1307_?_10 Pin=DS1307_?-10
+Added Pin To Net: NetName=NetDS1307_?_10 Pin=U?-36
+Added Net: Name=NetDS1307_?_10
+Add Class Member: Failed to add class member : Component DHT11_1 N/A
+Add Class Member: Failed to add class member : Component RE_1 N/A
+Added Room: Name=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01

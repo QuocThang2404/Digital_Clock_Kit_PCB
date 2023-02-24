@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=GND Pin=-1
+Removed Pin From Net: NetName=+5 Pin=-2
+Removed Pin From Net: NetName=NetRE?_3 Pin=-3
+Removed Pin From Net: NetName=NetRE?_4 Pin=-4
+Removed Pin From Net: NetName=NetRE?_5 Pin=-5
+Change Component Footprint: Designator= Old Footprint=Rotary_Encoder New Footprint=STM32F103C8T6
+Change Component Comment : Designator= Old Comment=N/A New Comment=Bluepill
+Change Component Designator: OldDesignator= NewDesignator=DHT11_?
+Change Component Designator: OldDesignator= NewDesignator=DS1307_?
+Change Component Designator: OldDesignator= NewDesignator=U?
+Change Component Designator: OldDesignator= NewDesignator=VR?
+Change Component Designator: OldDesignator=LCD1602 NewDesignator=LCD?
+Change component parameters: Designator = ""; Footprint = "Rotary_Encoder"; UniqueID = "\AELJCOBF" ("\AELJCOBF")
+Change component parameters (AddParameter): Name = "Base Product Number"; Value = "STM32F103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "MPU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/stm32f103c8t6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Kit Bluepill"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://hshop.vn/products/kit-ra-chon-stm32f103c8t6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.st.com/resource/en/datasheet/cd00161566.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connectivity"; Value = "CANbus, I²C, IrDA, LINbus, SPI, UART/USART, USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Processor"; Value = "ARM® Cortex®-M3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Size"; Value = "32-Bit Single-Core"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data Converters"; Value = "A/D 10x12b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of I/O"; Value = "37"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "48-LQFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peripherals"; Value = "DMA, Motor Control PWM, PDR, POR, PVD, PWM, Temp Sensor, WDT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Program Memory Size"; Value = "64KB (64K x 8)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Program Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RAM Size"; Value = "20K x 8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "STM32F1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed"; Value = "72MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply (Vcc/Vdd)"; Value = "2V ~ 3.6V"; VariantName = "[No Variations]"
+Added Component: Designator=RE?(Rotary_Encoder)
+Add component (AddParameter): Name = "Actuator Type"; Value = "6mm Dia Flatted End"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Built in Switch"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Hshop"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://hshop.vn/products/mach-volume-xoay-encoder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://handsontec.com/dataspecs/module/Rotary%20Encoder.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detent"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Encoder Type"; Value = "Mechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Panel, PCB Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Quadrature (Incremental)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pulses per Revolution"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rotational Life (Cycles Min)"; Value = "500K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RME12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=-18
+Added Pin To Net: NetName=GND Pin=-19
+Added Pin To Net: NetName=3V3 Pin=-20
+Added Pin To Net: NetName=3V3 Pin=-38
+Added Pin To Net: NetName=GND Pin=-39
+Added Pin To Net: NetName=GND Pin=-40
+Added Pin To Net: NetName=GND Pin=RE?-1
+Added Pin To Net: NetName=+5 Pin=RE?-2
+Added Pin To Net: NetName=NetRE?_3 Pin=RE?-3
+Added Pin To Net: NetName=NetRE?_4 Pin=RE?-4
+Added Pin To Net: NetName=NetRE?_5 Pin=RE?-5
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component DHT11_? N/A
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component DS1307_? N/A
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component LCD? N/A
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component RE? N/A
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component  Bluepill
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component U? Bluepill
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component VR? 10K
+Added Room: Name=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01

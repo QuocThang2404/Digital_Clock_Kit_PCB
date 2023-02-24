@@ -1,0 +1,57 @@
+Change Component Designator: OldDesignator= NewDesignator=RE?
+Change Component Designator: OldDesignator= NewDesignator=U?
+Change Component Designator: OldDesignator= NewDesignator=VR?
+Change Component Designator: OldDesignator=DHT11 NewDesignator=DHT11_?
+Change Component Designator: OldDesignator=DS1307 NewDesignator=DS1307_?
+Change Component Designator: OldDesignator=LCD1602 NewDesignator=LCD?
+Change Component Designator: OldDesignator=PIFCLUB NewDesignator=LOGO1
+Added Component: Designator=C1(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=P?(DOMINO 2-5mm -H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=(STM32F103C8T6)
+Add component (AddParameter): Name = "Base Product Number"; Value = "STM32F103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MPU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/stm32f103c8t6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Kit Bluepill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://hshop.vn/products/kit-ra-chon-stm32f103c8t6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.st.com/resource/en/datasheet/cd00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connectivity"; Value = "CANbus, I²C, IrDA, LINbus, SPI, UART/USART, USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Processor"; Value = "ARM® Cortex®-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Size"; Value = "32-Bit Single-Core"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Converters"; Value = "A/D 10x12b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/O"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "48-LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "DMA, Motor Control PWM, PDR, POR, PVD, PWM, Temp Sensor, WDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory Size"; Value = "64KB (64K x 8)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "20K x 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "STM32F1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "72MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply (Vcc/Vdd)"; Value = "2V ~ 3.6V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=-18
+Added Pin To Net: NetName=GND Pin=-19
+Added Pin To Net: NetName=GND Pin=-39
+Added Pin To Net: NetName=GND Pin=-40
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=3V3 Pin=-20
+Added Pin To Net: NetName=3V3 Pin=-38
+Added Net: Name=3V3
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=P?-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component C1 Cap Non-Pol SMD
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component P? Domino 2H
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component RE? N/A
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component  Bluepill
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component U? Bluepill
+Added Member To Class: ClassName=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01 Member=Component VR? 10K
+Added Room: Name=2023-02-24_PIFHomework_DigitalClock_ThangHo_V1-01
